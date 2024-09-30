@@ -1,0 +1,278 @@
+Năm 2138 sau công nguyên, DMMO-RPG không những trở thành sự thật, mà còn
+trở nên phổ biến.
+Là viết tắt của cụm từ ‘Dive Massively Multiplayer Online Role Playing Game’,
+DMMO-RPG đại diện cho một thế hệ trò chơi tương tác mới, trong đó người chơi
+có thể trải nghiệm một thế giới ảo chân thật tới từng chi tiết. Bằng cách sử dụng một
+loại máy móc đặc biệt, kết nối với các tế bào thần kinh thông qua một hệ thống máy
+tính và mạng nano, người chơi có thể cảm thấy mình thật sự dung nhập vào thế giới
+game.
+Trong số những DMMO-RPG từng được phát triển, có một tựa game đứng trên tất
+cả, tỏa sáng rực rỡ.
+Đó chính là Yggdrasil.
+Được phát triển bởi một nhóm lập trình game cực kỳ tài năng của Nhật, sau khi ra
+đời vào năm 2126, Yggdrasil trở thành một tựa game có thể mang đến sự tự do vô
+biên cho những người tham gia mà không bất kì tựa game nào ở thời đó có thể so
+sánh được.
+Số lượng class nhân vật trong game lên đến 2000 nếu cộng gộp tất cả các class từ cơ
+bản đến trung đẳng, cao cấp. Người chơi buộc phải lựa chọn ít nhất 7 class nếu
+muốn lên max level bởi một class tối đa chỉ có 15 level. Kể từ đó, chỉ cần thỏa mãn
+đầy đủ các yêu cầu cần thiết, một người có thể tự do thỏa thích thử nghiệm tất cả
+các class nhân vật mà mình yêu thích.
+Nói cách khác, với hệ thống của Yggdrasil, trừ khi cố tình bắt chước, thì sẽ không
+có chuyện hai nhân vật giống nhau.
+Không chỉ tự do trong việc lựa chọn class nhân vật, người chơi còn có thể tùy chỉnh
+giao diện nghe nhìn một cách tùy ý. Bằng cách sử dụng công cụ chỉnh sửa được bán
+riêng lẻ, người chơi có thể thay đổi hình dáng, chế tạo, xây dựng vũ khí, áo giáp,
+nhà cửa, vẻ ngoài nhân vật, thông tin nhân vật....... một cách thoải mái.
+hờ đợi người chơi tại Yggdrasil là một bản đồ thế giới cực kỳ rộng lớn; chín đại
+thế giới từ Asgard, Alfheim, Vanaheim, Nidavellir, Midgard, Jotunheim cho đến
+Niflheim, Helheim, Muspelheim.
+Một vũ trụ bao la, hằng hà sa số class nhân vật, đa dạng trong tùy biến giao diện,
+Yggdrasil đã thổi bùng lên tinh thần Artisan của các game thủ Nhật và tạo nên một
+cơn sốt mà sau này người ta hay gọi là “visual popularity”.
+(Chú thích: Tinh thần Artisan : tinh thần của những người ưa thích tự tay lắp ráp
+thiết kế, xây dựng mọi thứ.)
+Với sự bùng nổ nhanh chóng như thế, Yggdrasil trở nên phổ biến tới mức tại Nhật
+Bản, người ta coi Yggdrasil và DMMO-RPG là một.
+——Tiếc thay, vinh quang của nó nay chỉ còn là quá khứ.
+*
+Một bàn tròn lớn làm bằng đá pha lê lóng lánh nằm ở trung tâm của hội sảnh, bao
+quanh nó là 41 cái ghế sang trọng.
+Nhưng hầu hết chúng đều vắng bóng người.
+Chỉ có hai hình bóng cô quạnh ngồi lại đây, nơi mà đã từng đầy ắp tất cả thành viên
+của guild.
+Một người mặc trên mình chiếc áo choàng học giả hoa mĩ, đen nhánh, được điểm
+sắc bằng màu vàng - tím nơi viền áo. Hoa văn trang trí trên vùng cổ nhìn thì có vẻ
+quá màu mè hoa lá hẹ, nhưng lại hợp với gã một cách kì lạ. Chỉ có điều nằm trên
+trên chiếc cổ áo lòe loẹt ấy, thay vì là một cái đầu, lại là một cái xương sọ trắng hếu,
+không da không thịt. Trong hốc mắt trống rỗng của đầu lâu, bập bùng một tia sáng
+đỏ u ám; và phía sau nó là một vòng hào quang đen sẫm lập lòe.
+Kẻ còn lại cũng chẳng phải là con người. Trông bề ngoài của hắn giống như một bãi
+nước nhớp nháp màu than đá vậy, nó không ngừng nhúc nhích và không giữ bất cứ
+hình dạng cố định nào, dù chỉ là một giây.
+gười trước là một Overlord hùng mạnh, đứng đầu trong số những Elder Lich vĩ đại
+nhất - một Magic Caster đã tự biến mình thành một xác chết bất tử để có thể theo
+đuổi những ma thuật tối thượng. Kẻ sau là một Elder Black Ooze, chủng tộc trời
+sinh có những kỹ năng Acid mạnh mẽ nhất tính trong số tất cả tộc Slime.
+Tuy thế, bọn họ không phải là quái vật.
+Họ là những người chơi.
+Chủng tộc trong Yggdrasil chia làm ba loại riêng biệt: Cổ điển với hình dáng bên
+ngoài giống như Human, Dwarf, Elf; bán nhân loại với hình thù gớm ghiếc như
+Golbin, Orc, Orge nhưng mạnh mẽ hơn hẳn dạng cổ điển; và loại dị hình - những kẻ
+có sức mạnh của lũ quái vật, có thuộc tính cơ bản cao hơn hẳn hai chủng tộc kia,
+nhưng lại có nhiều khuyết điểm chí mạng. Bao gồm tất cả các chủng tộc cao cấp, số
+chủng tộc mà người chơi có thể chọn trong Yggdrasil lên đến 700.
+Và tất nhiên, Overlord và Elder Black Ooze là hai trong số những chủng tộc dị hình
+cao cấp mà người chơi có thể lựa chọn.
+Trong số hai chủng tộc trên, Overlord không thể chuyển động miệng khi nói
+chuyện. Cho dù với công nghệ cao nhất thời bấy giờ, Yggdrasil vẫn không thể làm
+cho sắc thái tình cảm của nhân vật biến đổi kịp với nội dung câu chuyện.
+“Chà, đã lâu không gặp, Herohero-san. Tôi không nghĩ là sẽ gặp cậu vào lúc này
+đấy.”
+“Ừ, thật sự đã lâu không gặp, Momonga-san.”
+Elder Black Ooze trả lời với một giọng nam tính nhưng tràn đầy sự mệt mỏi và thiếu
+sức sống.
+“Đây là lần đầu tiên chúng ta gặp lại nhau kể từ khi cậu đổi chỗ làm ở thế giới thật.
+Bao lâu rồi nhỉ?...... Hai năm trước thì phải.”
+“Hình như thế. Chậc, lâu quá rồi nhỉ. Dạo này khái niệm về thời gian của tôi lộn xộn
+hết cả lên, mấy bữa nay tôi làm ca đêm riết.”
+“Tệ thế à, đã đi khám khiếc gì chưa?”
+Chưa tới mức đó, nhưng tôi nghĩ với cái đà này vài hôm nữa chắc tôi nhập viện
+quá. Nói thật với cậu, giờ tôi chỉ muốn quẳng quách mọi thứ đi. Nhưng không lê lết
+đi làm thì chỉ có nước cạp đất mà ăn.”
+“Haiz.......”
+Momonga dựa đầu vào ghế, nghĩ tới bản thân mình, tâm trạng cũng dần dần trở nên
+u ám.
+“Thật sự tôi chịu hết nổi rồi.”
+Ảm đạm, nặng trĩu, tràn đầy cảm giác về hiện thực, giọng nói của Herohero tựa như
+chú ngựa thoát dây cương, hối hả lao thẳng vào phía Momonga.
+Anh ta than phiền về mọi khía cạnh cuộc sống của bản thân mình.
+Về lũ cấp dưới xấc láo, những đêm tăng ca để hoàn thành kế hoạch, những lời chỉ
+trích vì không kịp tiến độ, phải vật lộn với đống công việc cả ngày lẫn đêm, do giờ
+giấc sinh hoạt lôn xộn làm cho đống mỡ bụng lẫn số lượng thuốc mà anh uống hằng
+ngày tăng nhanh.
+Dần dần, cuộc trò chuyện giữa hai người chuyển thành màn độc thoại của Herohero,
+khi giới hạn cảm xúc của anh ta bị phá vỡ, những bực tức ùa ra như dòng nước lũ.
+Con người ta thường không muốn nhắc nhiều tới cuộc sống đời thực tại nơi hư ảo
+này, bởi sau một ngày vật lộn với mớ bòng bong của cuộc sống, họ thường không
+muốn nghĩ thêm về nó nữa, cho dù là từ chính mình.
+Tuy vậy, hai người đang ngồi ở đây thì lại không nghĩ như vậy.
+Bạn sẽ phải đáp ứng đủ hai yêu cầu nếu bạn muốn gia nhập Guild Ainz Ooal Gown.
+Một, bạn phải là người đã “đóng góp cho sự phát triển của xã hội”. Hai, chủng tộc
+bạn chọn phải là dị hình.
+Vì vậy, do bản chất của guild, những chủ đề mang tính phàn nàn về công việc là
+điều không thể tránh khỏi, và chúng ngầm được chấp nhận bởi các thành viên. Có
+hể nói những buổi trò chuyện như của hai người lúc này là chuyện thường ngày ở
+Ainz Ooal Gown.
+Một lúc sau, Herohero ngại ngùng dừng lại, ngọ nguậy thứ-dường-như-là-cái-đầu
+của mình, cúi nó xuống, anh tỏ vẻ xin lỗi.
+“Xin lỗi đã lôi anh ra làm nơi trút giận. Ngoài kia tôi không có ai để chia sẻ cả.”
+“Không có gì đâu, dù gì tôi cũng là người đã kéo anh lên đây dù anh mệt thế này.”
+Momonga nhanh chóng trả lời.
+So với lúc đầu, giọng Herohero nghe có vẻ có sức sống hơn nhiều.
+“Không, tôi mới là người phải cám ơn anh, Momonga-san. Tôi rất vui vì mình đã
+vào đây ngày hôm nay.”
+“Mừng vì anh nghĩ vậy.”
+“Nhưng tôi nghĩ đã đến lúc mình........”
+Thứ-dường-như-tay của Herohero giơ lên không trung như thể anh đang kiểm tra
+thứ gì đó trên màn mình điều khiển của mình.
+“Ồ, đã trễ thế này rồi à. Tôi rất tiếc, Mommonga-san.”
+Momonga thở nhẹ, kìm nén cảm xúc trào lên trong lòng.
+“Tôi không sao, chỉ là...thời gian trôi nhanh quá.”
+“Tôi rất muốn ngồi với anh đến cuối giờ, nhưng thật lòng tôi mệt quá.”
+“Tôi biết, anh nên đăng xuất và nghỉ ngơi đi.”
+“Chân thành xin lỗi Momon – san, không, hội trưởng, sau khi tôi rời khỏi anh tính
+làm gì?”
+“Chắc tôi sẽ đợi đến lúc server tắt. Có thể.... sẽ có thành viên khác lên.”
+“Ừ.....thật lòng, tôi không nghĩ nơi này còn tồn tại.”
+ào giờ khắc này, Momonga bỗng nhiên cảm thấy hài lòng với khả năng thể hiện
+cảm xúc kém cỏi của thế giới này, nếu không, chỉ với một cái liếc mắt, ai cũng có
+thể nhìn thấy vẻ mặt nhăn nhó của anh. Momonga ngậm chặt miệng, cố gắng đè nén
+cơn giận đang bùng cháy bên trong cơ thể.
+Mấy năm gần đây, anh đã phải liều mạng để giữ cho cái guild này tồn tại, chỉ bởi
+trong nó lưu giữ bao kỷ niệm, mồ hôi và công sức mọi người đã bỏ ra. Vì vậy, giận
+dữ là cảm xúc hiển nhiên, khi mà chính người bạn đã từng chung tay góp sức xây
+dựng nơi này với mình lại thốt lên câu đó. Nhưng cái cảm xúc ấy bùng lên đột ngột,
+rồi cũng trôi đi đột ngột không kém khi anh nghe Herohero nói:
+“Với tư cách là một thành viên của guild, tôi cảm ơn anh rất nhiều, vì đã duy trì nơi
+này, để chúng tôi có nơi quay về bất cứ lúc nào, thành thật cảm ơn anh.”
+“...Nơi này đầy tràn mồ hôi và nước mắt của chúng ta. Trách nhiệm của một hội
+trưởng như tôi là bảo vệ và gìn giữ nó.”
+“Nhờ có anh mà Yggdrasil đối với chúng tôi càng thêm thú vị, hi vọng là chúng ta
+sẽ gặp lại nhau ở Yggdrasil II.”
+“Tôi chưa nghe thông tin gì về phần II cả …nhưng tôi hi vọng là có nó.”
+“Ừ, hi vọng thế. Thôi tôi out đây, buồn ngủ quá rồi. Chúc anh vui vẻ.”
+“...”
+Trong thoáng chốc, Momonga dường như muốn thốt lên điều gì đó, nhưng anh từ
+bỏ, và nói:
+“Rất vui vì được gặp lại anh, chúc anh mạnh khỏe.”
+Một biểu tượng mặt cười hiện lên trên đầu của Herohero. Vì không có khả năng
+thay đổi nét mặt trong Yggdrasil, người chơi thường dùng các biểu tượng để thể
+hiện cảm xúc của mình. Momonga cũng điều chỉnh màn hình điều khiển của mình
+để hiện ra Emoticon tương tự.
+Sau đó, âm thanh cuối cùng của Herohero vang vọng trong không gian này:
+Hẹn gặp lại ở một nơi khác.”
+Herohero, người cuối cùng trong 3 thành viên guild xuất hiện hôm nay....biến mất.
+Với sự ra về của người khách viếng, sự trống trải lại được trả về cho không gian
+này, trống vắng cả cảm xúc và kí ức.
+Nhìn nơi Herohero vừa ngồi, Momonga thốt ra lời mà anh kìm nén từ trước:
+“Tôi biết anh rất mệt, nhưng dù gì hôm nay cũng là ngày cuối cùng, ở lại với tôi đi.”
+Tất nhiên, lời đề nghị của anh hoàn toàn không nhận được câu trả lời. Herohero đã
+quay trở về thế giới thật từ lâu.
+“Hàààà.”
+Momonga phát ra một tiếng thở dài từ tận đáy lòng.
+Anh không tính thốt ra những lời đó trước mặt Herohero.
+Thực tế của việc Herohero luôn uể oải trong suốt buổi nói chuyện là bằng chứng
+cho việc anh ấy đang rất mệt mỏi. Dù thế, Herohero vẫn cố vào Yggdrasil khi nhận
+được thư mời của anh. Anh nên biết ơn về điều đó. Đòi hỏi hơn nữa chỉ tổ làm cho
+cuộc gặp mặt cuối cùng này tan rã trong bầu không khí nặng nề hơn mà thôi.
+Momonga nhìn về chỗ Herohero, sau đó lướt mắt qua 39 chiếc ghế, nơi những đồng
+đội của anh từng ngồi....
+Một ngày nào đó chúng ta sẽ còn gặp lại.
+Hẹn gặp lại.
+Anh đã nghe những câu như thế này nhiều lần lắm rồi. Nhưng sự thật là ngày đó
+chẳng bao giờ đến.
+Chẳng ai thèm quay lại Yggdrasil cả.
+“Gặp lại ư.....ở đâu và khi nào cơ chứ...”
+ai Momonga run rẩy, và như giọt nước làm đầy tràn những nhức nhối đè nén bấy
+lâu trong anh:
+“...Đừng đùa với tôi!”
+Đập bàn tay lên bàn, anh gào lên giận dữ. Cú đập này được coi như là một đòn tấn
+công, hệ thống game ngay lập tức tính toán lực công kích của Momonga cũng như
+chỉ số phòng thủ của cái bàn, và một số 0 hiện ra ngay nơi Momonga vừa đập.
+“Đây là Lăng Mộ Ngầm Vĩ Đại Nazarick, nơi mà chúng ta đã cất công dựng lên, sao
+mọi người lại có thể từ bỏ nó một cách dễ dàng như thế chứ.”
+Thứ gì đó đã hoang tàn phía sau sự nỗi giận kinh khủng của anh.
+“Không, không phải thế. Họ không từ bỏ. Họ chỉ phải làm một quyết định khó khăn
+khi phải chọn giữa hiện thực và mộng tưởng thôi. Đúng vậy, chắc chắn là như vậy,
+họ không phản bội nơi này.”
+Momonga lẩm bẩm tự thuyết phục bản thân. Sau đó anh đứng dậy, bước về phía bức
+tường, nơi đó treo một thanh quyền trượng.
+Lấy hình tượng từ thanh quyền trượng Caduceus của thần Hi Lạp Herme, cây quyền
+trượng trên tường này được tạo thành từ bảy con rắn bện xoắn với nhau. Miệng mỗi
+con ngậm một viên kim cương trong suốt với màu sắc khác biệt, chúng tỏa ra một
+màu xanh trắng dìu dịu.
+Quyền trượng này là 'Vũ khí Guild' - thứ mà mỗi guild chỉ được phép sở hữu một
+kiện - cũng là biểu tượng của Ainz Ooal Gown.
+Trên lý thuyết, nó được sử dụng bởi người đứng đầu mỗi guild; nhưng thực tế nó
+được treo trên tường như một vật trang trí chỉ vì tầm quan trọng của mình. Không
+những được coi là hiện vật tượng trưng cho mỗi guild, 'Vũ khí Guild' còn tượng
+trưng cho một lời tuyên bố giải tán guild nếu bị hủy diệt. Bởi vậy, nó được để ở một
+nơi cực kì an toàn và không có cơ hội thấy được ánh sáng mặt trời cũng nhu phô
+diễn sức mạnh của mình. Đó cũng là số phận chung của tất cả 'Vũ khí Guild'; cho dù
+là ở một guild mạnh mẽ như Ainz Ooal Gown thì cũng như vậy. Vì thế, dù thanh
+quyền trượng này dù được đặc chế dành riêng cho mình, Momonga cũng chưa từng
+có cơ hội được sử dụng nó.
+Momonga vươn tay, ngập ngừng với về phía cây trượng. Ngay tại lúc này - vào thời
+khắc Yggdrasil sắp sửa bị dừng vận hành, anh vẫn cảm thấy rụt rè với những hành
+động mà anh cho là sẽ ảnh hưởng tới những kỷ niệm mà họ đã chung tay tạo nên.
+Để có được kiện vũ khí này, cả guild đã có những ngày tháng phiêu lưu liên miên
+bất tận.
+Lúc ấy, cả guild phân tổ thi nhau tìm kiếm nguyên liệu để tạo lên nó, đối với việc
+rèn tạo hình dáng như thế nào cũng đã phải tranh luận không ít, sau đó mới chậm rãi
+tổng hợp ý kiến mọi người, từng chút từng chút tạo lên thanh quyền trượng này.
+Chúng là những khoảnh khắc huy hoàng của Ainz Ooal Gown - khoảng thời gian
+mà họ hùng mạnh nhất.
+Trong khoảng thời gian này, mọi thành viên gần như tập trung toàn bộ sức lực vào
+việc chế tạo vũ khí của guild: người thì vẫn cố lết xác lên Yggdrasil sau một ngày
+làm việc vất vả, người thì cãi nhau với vợ vì không chăm lo cho gia đình, người thì
+cười bảo anh ta vừa xin nghỉ phép không nhận lương để tập trung vào Yggdrasil.
+Có thời gian cả guild đăng nhập vô đây chỉ để chém gió, hào hứng tán dóc vớ vẩn cả
+ngày.
+Có ngày họ dùng thời gian để mạo hiểm, càn quét Dungeon. Cũng có ngày cả guild
+bất ngờ lên kế hoạch tấn công, tập kích thành của Guild đối địch; hoặc tiêu diệt boss
+ẩn nguy hiểm, thu về hàng tá kho báu chưa từng được phát hiện; hoặc bắt một đống
+quái vật đặt vào trong căn cứ của mình để đối phó với người chơi mạo hiểm xâm
+lấn......
+Nhưng giờ chả còn ai cả.
+37 trong số 41 thành viên đã bỏ game, 3 người còn lại thì chỉ tham gia trên danh
+nghĩa. Ngoại trừ hôm nay, Momonga chả nhớ rõ lần cuối họ đăng nhập là khi nào
+nữa.
+Momonga mở bảng điều khiển lên, truy cập vào bảng xếp hạng. Đã có lúc họ đứng
+thứ 9 trong tổng số 800 Guild của Yggdrasil, nhưng giờ vị trí đã tuột xuống hạng 29
+- một vị trí không quá tệ, nếu so sánh với thứ hạng 48 tồi tệ nhất của họ.
+Lý do guild này vẫn giữ được thứ hạng như này không phải bởi những cố gắng của
+Momonga, mà do những vật phẩm quý giá bị bỏ lại bởi những thành viên khác của
+guild - các báu vật của quá khứ.
+Tuy bây giờ chỉ còn là cái xác chìm đắm trong bóng ma quá khứ, nhưng đã có lúc
+Ainz Ooal Gown tỏa sáng rực rỡ.
+——Kết tinh của quá khứ huy hoàng đó
+Vũ khí Guild: Quyền Trượng Ainz Ooal Gown.
+Momonga không muốn làm hoen ố kiện vũ khí chứa đầy tình cảm của bọn họ với
+thứ không khí đầy lụn bại của nơi này, nhưng một cảm giác bướng bỉnh đâu đó lại
+dâng lên trong anh.
+Phiếu bầu của Momonga luôn có giá trị cao nhất so với tất cả các phiếu còn lại.
+Nhưng dù là hội trưởng, nhiệm vụ của anh trong hội chỉ là làm vài thứ linh tinh lặt
+vặt như liên lạc giữa các thành viên.
+Bởi vậy, tại thời khắc này, lần đầu tiên, ý nghĩ sử dụng quyền hạn của một hội
+trưởng xuất hiện trong Momonga.
+“Trang bị đang mặc này thật tệ.”
+Lẩm bẩm với chính mình, Momonga mở bảng điều khiển lên, trang bị cho nhân vật
+của mình những trang sức - vũ khí xứng với vị trí hội trưởng.
+Vũ khí trong Yggdrasil được phân loại theo độ lớn chỉ số của chúng. Chỉ số càng
+lớn thì cấp bậc của chúng càng cao: bắt đầu là Lesser, sau đó là Minor, Medium,
+Major, Greater, Legacy, Relic và Legendary. Nhưng lúc này, Momonga lựa chọn
+trang bị cho mình những vũ khí cao cấp nhất - Divine.
+Trên mười ngón tay xương xẩu của mình, Momonga đeo lên chín chiếc nhẫn - mỗi
+chiếc chứa đựng một năng lực khác nhau. Vòng cổ, bao tay, giày, áo choàng, vương
+miện - tất cả đều là cấp Devine. Từ góc độ tiền tài, mọi thứ trên người Momonga lúc
+này đều có giá trị kinh người.
+Một dải áo choàng rực rỡ xòa xuống từ mảnh giáp vai, một vòng hào quang đỏ sẫm
+lan tỏa từ hai chân. Nhìn thì có vẻ hỗn loạn, tà ác; nhưng đây không phải là kỹ năng
+của Momonga. Anh chỉ đơn giản là mặc vào một chiếc áo choàng có chứa năng lực
+[Hào quanh hỗn loạn]. Chạm vào nó hoàn toàn vô hại.
+Nhiều biểu tượng xuất hiện trong tầm mắt của Momonga, cho thấy thuộc tính của
+anh đã tăng lên.
+Gật đầu hài lòng với trang phục và trang bị của mình, Momonga vươn tay cầm lấy
+Quyền Trượng Ainz Ooal Gown.
+Khoảnh khắc anh chạm vào cây trượng này, nó tỏa ra một vòng xoáy hào quang
+màu đỏ thẫm. Hào quang có đôi khi chuyển biến thành hình khuôn mặt đang gào
+thét trong đau đớn. Chân thật đến nỗi, anh dường như có thể nghe giọng chúng nó
+kêu gào.
+“Tỉ mỉ đến phát bệnh.”
+Kiện vũ khí hùng mạnh chưa từng được ai chạm qua sau khi chế tác, cuối cùng cũng
+về tay chủ nhân vốn có của mình.
+Một lần nữa đánh giá những điểm cộng đáng kể trên toàn bộ thuộc tính của mình,
+Momonga vừa cảm thấy vui sướng vừa cảm thấy cô đơn.
+“Chúng ta đi chứ, biểu tượng của guild? Không, không phải như thế——phải là “đi
+thôi, biểu tượng của guild”.

@@ -1,0 +1,219 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100%;
+  position: absolute;
+  background-color: var(--dark-color-50);
+}
+.blankDiv {
+  width: 10px;
+}
+//login page
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.loginPanel {
+  width: 40%;
+  height: 50%;
+  min-height: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: white;
+  border: 1px solid transparent;
+  border-radius: 40px;
+  flex-direction: column;
+  box-shadow: 5px 5px 4px rgba(255, 255, 255, 0.3);
+}
+
+.noitice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: red;
+}
+.success {
+  color: var(--dark-color-50);
+}
+.resetButton {
+  &:hover {
+    color: var(--warning-bg-color);
+  }
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  width: 25%;
+}
+.labelHeader {
+  display: flex;
+  flex-direction: column;
+  color: rgb(81, 211, 228);
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  //   top: 0;
+  //   position: sticky;
+}
+.fieldContent {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 50%;
+}
+.loginMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  width: 80%;
+  color: rgb(0, 211, 255);
+  font-size: 1.4rem;
+  padding: 5px;
+}
+.savePasswordButton {
+  padding-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+  width: fit-content;
+  width: 80%;
+  font-size: 1.1rem;
+}
+.savePassLabel {
+  width: 120px;
+}
+.loginAction {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.loginButton {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.inputLogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  max-height: 200px;
+  border-radius: 10px;
+  border: 1px solid var(--primaryColor-40);
+  &::before {
+    content: ':';
+  }
+  // &:hover {
+  //   // border: 1px solid transparent;
+  // }
+}
+.loginFooter {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 10%;
+}
+.signUpLabel {
+  cursor: pointer;
+  &:hover {
+    color: var(--primaryColor-40);
+  }
+}
+.getPassLabel {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  &:hover {
+    color: var(--primaryColor);
+  }
+}
+// //sign page
+// .signUpMain {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   flex-direction: column;
+//   padding: 0 5%;
+// }
+// .labelSignUp {
+//   width: 40%;
+//   font-size: 1.6rem;
+// }
+// .inputSignUp {
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+//   width: 60%;
+//   border-radius: 10px;
+// }
+
+// // recovery page
+// .inputRecovery {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   width: 60%;
+//   border-radius: 10px;
+//   border: 1px solid var(--primaryColor-40);
+//   &:hover {
+//     border: 1px solid transparent;
+//   }
+// }
+// .recoveryTextArea {
+//   display: flex;
+//   height: 98px;
+//   width: 80%;
+//   justify-content: space-evenly;
+//   align-items: flex-start;
+
+//   color: rgb(0, 211, 255);
+//   font-size: 2rem;
+//   padding: 5px;
+// }
+// .recoveryAnswer {
+//   display: flex;
+//   width: 100%;
+//   max-height: 98px;
+// }
+// .recoveryLabel {
+//   display: flex;
+//   width: 40%;
+//   height: 50px;
+//   font-size: 1.6rem;
+//   align-items: center;
+// }
+// .prePasswordChecker {
+//   display: flex;
+//   justify-content: center;
+//   width: 60%;
+//   font-size: 1.2rem;
+//   color: red;
+// }
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.title {
+  color: rgb(81, 211, 228);
+  margin: 5px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.warning {
+  border: 1px solid var(--warning-bg-color);
+}

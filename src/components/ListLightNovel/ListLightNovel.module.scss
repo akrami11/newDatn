@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-radius: 5px;
+  background-color: var(--bg-main-color);
+  padding: 5px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  height: 50px;
+  padding: 5px;
+  margin: 1px;
+  background-color: var(--normal-white-color);
+  cursor: pointer;
+  &:hover {
+    color: var(--warning-bg-color);
+  }
+}

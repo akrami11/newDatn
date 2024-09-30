@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  background-color: var(--normal-white-color);
+  margin: 1px;
+}
+.avt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  min-width: 70px;
+  height: 70px;
+  cursor: pointer;
+}
+.name {
+  font-size: 1.1rem;
+  padding: 5px;
+  cursor: pointer;
+  &:hover {
+    color: var(--warning-bg-color);
+  }
+}
+.chapter {
+  font-size: 0.9rem;
+  padding-left: 5px;
+  width: fit-content;
+  color: var(--hover-color);
+  cursor: pointer;
+  &:hover {
+    color: var(--warning-bg-color);
+  }
+}

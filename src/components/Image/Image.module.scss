@@ -1,0 +1,44 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 100%;
+  max-width: fit-content;
+  cursor: pointer;
+}
+.logo {
+  height: 100%;
+}
+.round {
+  border-radius: 50px;
+}
+.outline {
+  border: 1px solid var(--outline-color);
+}
+.mini {
+  max-width: 50px;
+  max-height: 50px;
+}
+.normal {
+  width: 100%;
+  max-width: 420px;
+  max-height: 525px;
+}
+.item {
+  height: 100%;
+  max-width: 100%;
+}
+.home {
+  width: 100%;
+}
+.qr {
+  width: 300px;
+}

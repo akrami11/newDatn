@@ -1,0 +1,105 @@
+.wrapper {
+  display: flex;
+  width: fit-content;
+  padding-right: 5px;
+  white-space: pre-line;
+}
+.messageBox {
+  display: flex;
+  width: 100%;
+  padding: 2px;
+  border: 1px solid var(--bg-color);
+  background-color: var(--bg-color);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  flex-direction: column;
+  width: fit-content;
+  justify-content: flex-end;
+}
+.titleBox {
+  display: flex;
+  width: fit-content;
+  height: 50px;
+  font-weight: 500;
+  align-items: center;
+  justify-content: center;
+  color: var(--normal-color);
+  background-color: transparent;
+  cursor: pointer;
+}
+.mainTitle {
+  display: flex;
+  width: fit-content;
+  min-width: 220px;
+  max-width: 220px;
+  height: 50px;
+  font-weight: 500;
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--normal-color);
+  background-color: transparent;
+  cursor: pointer;
+}
+.name {
+  padding: 0 4px;
+  min-width: 170px;
+  max-width: 170px;
+  word-wrap: break-word;
+  word-break: break-all;
+  overflow: hidden;
+}
+.mainBox {
+  display: flex;
+  max-height: 20px;
+  min-height: 200px;
+  background-color: var(--main-bg-color);
+  flex-direction: column;
+  overflow: auto;
+}
+.sendMessage {
+  display: flex;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.collapseSendMessage {
+  display: flex;
+  justify-content: flex-end;
+  width: fit-content;
+  max-width: 80%;
+}
+.receiveMessage {
+  display: flex;
+  justify-content: flex-start;
+}
+.collapseReceiveMessage {
+  display: flex;
+  justify-content: flex-start;
+  width: fit-content;
+  max-width: 80%;
+}
+.messageLabel {
+  display: inline-block;
+  background-color: var(--bg-color);
+  padding: 8px;
+  margin: 1px;
+  color: var(--normal-color);
+  border-radius: 15px;
+  width: fit-content;
+  max-width: 188px;
+  // word-wrap: break-word;
+  // word-break: break-all;
+}
+
+.sendBox {
+  display: flex;
+  align-items: center;
+
+  font-size: 1.2rem;
+
+  margin-top: 3px;
+  width: 100%;
+  height: fit-content;
+  max-height: 98px;
+  word-wrap: break-word;
+  word-break: break-all;
+}

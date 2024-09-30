@@ -1,0 +1,75 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --bg-main-color: rgba(199, 203, 209);
+  --dark-color-50: rgba(60, 75, 100, 0.5);
+  --dark-color-80: rgba(60, 75, 100, 0.8);
+  --dark-bg-header-color: rgb(33, 35, 51);
+  --dark-bg-header-color-80: rgba(33, 35, 51, 0.8);
+  --dark-bg-sidebar-color: rgb(99, 111, 131);
+  --dark-bg-color: rgb(60, 75, 100);
+  --light-bg-color: rgb(0, 123, 255);
+  --normal-white-color: rgb(230, 240, 240);
+  --primary-bg-color: rgb(0, 123, 255);
+  --success-bg-color: rgb(32, 187, 68);
+  --warning-bg-color: rgb(236, 151, 31);
+  --danger-bg-color: rgb(250, 60, 60);
+  --hover-color: rgba(0, 50, 100, 0.3);
+  --info-color: rgb(23, 162, 184);
+  --outer-color: rgb(17, 17, 17);
+  --layout-comment-color: rgb(51, 51, 51);
+  --inner-comment-color: rgb(66, 62, 62);
+  --comment-border-color: rgb(95, 106, 126);
+  --username-color: rgb(220, 240, 30);
+  --chapter-color: rgb(63, 148, 213);
+  --comment-color: rgb(240, 240, 240);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+// html {
+// }
+
+body {
+  font-family: 'Chivo', sans-serif;
+  margin: 0;
+  padding: 0;
+  .tippy-box {
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: 'ProximaNova', sans-serif;
+    border-radius: 8px;
+    line-height: 1.6rem;
+  }
+  .tippy-box[data-theme~='light'] {
+    background-color: var(--light-bg-color);
+    color: var(--normal-white-color);
+    // .tippy-arrow {
+    //   color: var(--light-bg-color);
+    // }
+  }
+
+  .tippy-box[data-theme~='dark'] {
+    background-color: var(--dark-bg-color);
+    color: var(--normal-white-color);
+  }
+  .tippy-box[data-theme~='custome'] {
+    background-color: var(--bg-main-color);
+    color: var(--success-bg-color);
+    // .tippy-arrow {
+    //   color: var(--dark-bg-color);
+    // }
+  }
+  // .tippy-content {
+  //   padding: 8px 9px;
+  // }
+  // .tippy-box[data-placement^='bottom'] > .tippy-arrow::before {
+  //   top: -8px;
+  // }
+}
+a.webkit-any-link {
+  color: inherit;
+}

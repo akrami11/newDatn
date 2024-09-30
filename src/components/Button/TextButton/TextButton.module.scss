@@ -1,0 +1,106 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+  border: 0px;
+  color: inherit;
+  background-color: transparent;
+  width: fit-content;
+  min-width: 30px;
+  height: 100%;
+  font-size: inherit;
+  cursor: pointer;
+  word-wrap: inherit;
+}
+.wrapper a {
+  text-decoration: none;
+  color: inherit;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  min-width: 30px;
+  width: fit-content;
+  padding: 5px;
+}
+.hover:hover {
+  background-color: var(--hover-color);
+}
+.radius {
+  border-radius: 5px;
+}
+.round {
+  border-radius: 60px;
+}
+.outline {
+  border: 1px solid var(--outline-color);
+}
+.normal {
+  display: flex;
+  // justify-content: flex-start;
+  color: var(--button-color);
+  border-color: var(--normal-white-color);
+  background-color: var(--normal-background-color-50);
+}
+.primary {
+  color: var(--normal-white-color);
+  background-color: var(--primary-bg-color);
+  border-color: var(--primary-bg-color);
+}
+.success {
+  color: var(--normal-white-color);
+  background-color: var(--success-bg-color);
+  border-color: var(--success-bg-color);
+}
+.warning {
+  color: var(--normal-white-color);
+  background-color: var(--warning-bg-color);
+  border-color: var(--warning-bg-color);
+}
+.danger {
+  color: var(--normal-white-color);
+  background-color: var(--danger-bg-color);
+  border-color: var(--danger-bg-color);
+}
+.info {
+  color: var(--normal-white-color);
+  background-color: var(--info-color);
+  border-color: var(--info-color);
+}
+.disable {
+  color: var(--normal-white-color);
+  background-color: var(--dark-color-80);
+  border-color: var(--dark-color-80);
+}
+
+.mini {
+  height: fit-content;
+}
+.fit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 0 5px;
+}
+.large {
+  display: flex;
+  align-items: center;
+  min-width: 100px;
+  min-height: 40px;
+}
+.full {
+  height: 100%;
+  width: 100%;
+}
+.noBorder {
+  border: 0px;
+  color: inherit;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+}
+.margin {
+  margin: 5px;
+}

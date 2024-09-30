@@ -1,0 +1,96 @@
+.light {
+  --button-color: rgb(50, 50, 50);
+  --bg-color: var(--light-bg-color);
+  --bg-color-2: var(--dark-bg-color);
+  // --normal-color: rgb(50, 50, 50);
+  --normal-color: var(--normal-white-color);
+  --layout-bg-color: rgb(255, 255, 255);
+  --layout-bg-o-color: rgb(255, 255, 255);
+  --layout-border-color: var(--dark-bg-color);
+  --table-bg-color: rgb(255, 255, 255);
+  --normal-bg-color: rgba(240, 240, 240, 1);
+  --normal-bg-color-10: rgba(0, 75, 150, 0.1);
+  --normal-bg-color-20: rgba(0, 75, 150, 0.2);
+  --normal-bg-color-40: rgba(0, 75, 150, 0.4);
+  --outline-color: rgb(50, 50, 50);
+  --hover-color: rgba(0, 50, 100, 0.3);
+  --light-color: rgb(255, 255, 255);
+  --normal-sidebar-color: rgb(200, 200, 240);
+  --bg-header-color: rgba(0, 50, 100, 1);
+  --bg-header-color-80: rgba(0, 50, 100, 0.8);
+  --main-bg-color: rgba(240, 240, 240, 1);
+  --color-gardient-start: rgb(250, 60, 60);
+  --color-gardient-end: rgb(60, 250, 60);
+  // --warning-color: rgb(250, 60, 60);
+}
+.dark {
+  --button-color: rgb(255, 255, 255);
+  --bg-color: var(--dark-bg-color);
+  --bg-color-2: var(--light-bg-color);
+  --normal-color: var(--normal-white-color);
+  --layout-bg-color: rgb(150, 150, 150);
+  --layout-bg-o-color: var(--light-bg-color);
+  --layout-border-color: rgb(200, 200, 200);
+  --table-bg-color: rgb(150, 150, 150);
+  --normal-bg-color: rgba(100, 100, 100, 1);
+  --normal-bg-color-10: rgba(0, 75, 150, 0.1);
+  --normal-bg-color-20: rgba(100, 100, 100, 0.2);
+  --normal-bg-color-40: rgba(100, 100, 100, 0.4);
+  --outline-color: rgb(50, 50, 50);
+  --hover-color: rgba(100, 100, 100, 0.3);
+  --light-color: rgb(255, 255, 255);
+  --normal-sidebar-color: rgb(200, 200, 240);
+  --bg-header-color: var(--dark-bg-header-color);
+  --bg-header-color-80: var(--dark-bg-header-color-80);
+  --main-bg-color: rgba(120, 120, 120, 1);
+  --color-gardient-start: var(--normal-color);
+  --color-gardient-end: var(--normal-color);
+}
+.wrapper {
+  // background-color: var(--bg-color);
+  padding: 0;
+  margin: 0;
+}
+.container {
+  //   background-color: var(--dark-color-50);
+  display: flex;
+  // background-color: var(--normal-bg-color-20);
+  height: 100%;
+  padding-top: 60px;
+  // min-height: 500px;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  padding-bottom: 60px;
+  position: absolute;
+  z-index: -1;
+}
+
+.main {
+  display: flex;
+  background-color: var(--main-bg-color);
+  margin-left: 20%;
+  width: 80%;
+}
+.toggled {
+  margin-left: 60px;
+  width: 99%;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  padding: 10px 0 10px 10px;
+  color: var(--normal-color);
+  background-image: linear-gradient(
+    270deg,
+    var(--bg-color),
+    var(--bg-header-color)
+  );
+  span {
+    height: 20px;
+  }
+  position: absolute;
+}

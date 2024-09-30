@@ -1,0 +1,71 @@
+.wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  height: fit-content;
+  max-height: 98px;
+  font-size: inherit;
+  color: var(--normal-color);
+  border-radius: 10px;
+  border: 1px solid transparent;
+}
+.editText {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 2px;
+  margin: 3px;
+  background-color: var(--main-bg-color);
+  border-radius: 8px;
+}
+.after {
+  &::after {
+    content: 'đ';
+    color: var(--button-color);
+  }
+}
+.noBackground {
+  background-color: transparent;
+}
+.editableInput {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  min-width: 30px;
+  max-height: 98px;
+  overflow-y: auto;
+  word-wrap: break-word;
+  word-break: break-all;
+  font-size: inherit;
+  color: var(--button-color);
+  &:focus-visible {
+    outline: none;
+  }
+}
+.editAction {
+  display: flex;
+  align-items: flex-end;
+  width: 30px;
+}
+.centerAline {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.replace {
+  color: var(--hover-color);
+}
+.disable {
+  border: 1px solid var(--hover-color);
+}
+.fullBox {
+  min-height: 100%;
+  max-height: 300px;
+  border-radius: 0;
+  border: 0px;
+  margin: 0;
+  padding: 0;
+}
+.innerPadding {
+  padding: 10px;
+}

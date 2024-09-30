@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  background-color: var(--main-bg-color);
+  color: var(--button-color);
+  height: 90%;
+  width: 100%;
+  font-size: 1.2rem;
+}
+.round {
+  border-radius: 10px;
+}
+.outline {
+  border: 1px solid var(--outline-color);
+}

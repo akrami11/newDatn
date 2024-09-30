@@ -1,0 +1,215 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  //   height: 100%;
+  font-size: 1.1rem;
+}
+.details {
+  display: flex;
+  width: 100%;
+  height: fit-content;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: fit-content;
+}
+.itemPreview {
+  width: 100%;
+}
+.others {
+  width: 25%;
+  height: 100%;
+}
+.bott {
+  display: flex;
+  border-top: 1px solid var(--hover-color);
+}
+.comments {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+}
+.image {
+  width: 25%;
+}
+.props {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  padding: 10px;
+}
+.title {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.tag {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.tagName {
+  line-height: 1.5rem;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 30px;
+  background-color: var(--hover-color);
+}
+.description {
+  display: block;
+  text-align: left;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  word-spacing: 4px;
+}
+.price {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.action {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+
+.listChapter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 75%;
+  padding: 10px 0 10px 0;
+}
+.chapterBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 98%;
+  margin: 1%;
+}
+
+.chapter {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 20px;
+  border-bottom: 1px solid var(--hover-color);
+  cursor: pointer;
+}
+.header {
+  font-size: 1.4rem;
+  font-weight: 600;
+  cursor: auto;
+}
+.even {
+  background-color: var(--layout-bg-color);
+}
+.visited {
+  color: var(--hover-color);
+}
+.lastReadChapter {
+  &::after {
+    content: '\f005';
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 600;
+  }
+}
+.timer {
+  text-align: center;
+
+  font-size: 0.9rem;
+  color: var(--hover-color);
+  width: 10%;
+}
+.nameChapter {
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+span.nameChapter {
+  &:hover {
+    color: var(--danger-bg-color);
+  }
+}
+.headChapterBox {
+  text-align: center;
+  width: 10%;
+}
+.views {
+  text-align: center;
+  width: 10%;
+}
+.buyDetail {
+  color: var(--primary-bg-color);
+  font-style: italic;
+  cursor: pointer;
+}
+.commentField {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  background-color: var(--layout-comment-color);
+}
+
+.comments {
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 98%;
+}
+.commentSelector {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+
+  padding-top: 20px;
+  border-left: 0px;
+  border-bottom: 1px solid var(--warning-bg-color);
+}
+.commentButton {
+  height: 50px;
+  padding: 5px;
+  margin-bottom: -1px;
+  margin-left: 1px;
+  color: var(--normal-white-color);
+  border-bottom: 1px solid var(--warning-bg-color);
+  background-color: var(--inner-comment-color);
+}
+
+.selected {
+  color: var(--warning-bg-color);
+  border: 1px solid var(--warning-bg-color);
+  border-bottom: 0px;
+  &::after {
+    border-bottom: 1px solid var(--normal-white-color);
+  }
+}
+.pageComment {
+  padding-top: 30px;
+  width: 100%;
+  background-color: var(--inner-comment-color);
+}
+.fbComment {
+  width: 100%;
+  height: fit-content;
+  margin: 1px;
+  background-color: var(--layout-bg-color);
+}

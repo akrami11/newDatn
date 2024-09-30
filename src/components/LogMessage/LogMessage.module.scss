@@ -1,0 +1,16 @@
+.wrapper {
+  left: 0;
+  bottom: 10px;
+  padding: 5px;
+  border-radius: 3px;
+  color: var(--normal-white-color);
+  background-color: var(--success-bg-color);
+  position: fixed;
+  z-index: 10;
+}
+.success {
+  background-color: var(--success-bg-color);
+}
+.warning {
+  background-color: var(--warning-bg-color);
+}

@@ -1,0 +1,45 @@
+.wrapper {
+  display: flex;
+  width: 100%;
+  //   height: 100%;
+  font-size: 1.1rem;
+}
+.image {
+  width: 25%;
+}
+.props {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+}
+.title {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.tag {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  word-spacing: 4px;
+}
+.price {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.action {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  height: 60px;
+  width: 100%;
+}
+.button {
+  margin-left: 5px;
+}

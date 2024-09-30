@@ -1,0 +1,23 @@
+.wrapper {
+  width: 100%;
+  padding: 5px;
+}
+.header {
+  font-size: 1.6rem;
+  font-weight: 600;
+  width: 100%;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.list {
+  width: 70%;
+}
+.others {
+  width: 30%;
+  height: fit-content;
+  top: 0;
+  position: sticky;
+}

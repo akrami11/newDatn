@@ -1,0 +1,31 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  min-width: 1200px;
+  height: 80%;
+  min-height: 500px;
+  background-color: var(--normal-white-color);
+  border-radius: 10px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 80%;
+}
+.content {
+  width: 90%;
+  height: 80%;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+}
+.footerButton {
+  padding: 5px;
+}

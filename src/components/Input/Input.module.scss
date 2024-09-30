@@ -1,0 +1,47 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: inherit;
+  font-weight: 200;
+  border: 1px solid var(--outline-color);
+  background-color: transparent;
+  color: inherit;
+  text-decoration: none;
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: inherit;
+  font-weight: 200;
+  // border: 1px solid var(--outline-color);
+  background-color: transparent;
+  color: inherit;
+  text-decoration: none;
+  overflow-wrap: break-word;
+}
+.checkBox {
+  margin-right: 3px;
+}
+.border {
+  border: 1px solid transparent;
+  &:focus-visible {
+    outline: none;
+  }
+}
+.round {
+  border-radius: 10px;
+}
+.mini {
+  width: fit-content;
+}
+.label {
+  width: 75%;
+  height: 100%;
+}

@@ -1,0 +1,86 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  width: 100%;
+  font-size: 1rem;
+  // background-color: var(--dark-color-50);
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  height: 100%;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+}
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 8%;
+  height: 40px;
+  cursor: pointer;
+  &::selection {
+    background-color: transparent;
+    color: inherit;
+  }
+  &:hover {
+    background-color: var(--hover-color);
+  }
+}
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  font-size: 1.3rem;
+}
+.notification {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.8rem;
+  color: var(--danger-bg-color);
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  z-index: -1;
+}
+.action {
+  display: flex;
+  align-items: center;
+  // justify-content: space-around;
+  // justify-content: center;
+  // vertical-align: middle;
+  width: 30%;
+  height: 100%;
+}
+.classtest {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.search {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  height: 50px;
+}
+.selectSearch {
+  height: 30px;
+  margin: 5px;
+}
+.tippyBox {
+  background-color: var(--bg-color);
+  max-width: 270px;
+  font-size: 1.2rem;
+}

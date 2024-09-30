@@ -1,0 +1,84 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+  border: 0px;
+  color: inherit;
+  background-color: transparent;
+  width: 100%;
+  height: 100%;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.hover:hover {
+  background-color: var(--hover-color);
+}
+.radius {
+  border-radius: 10px;
+}
+.btnIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: fit-content;
+  min-width: 40px;
+  height: 100%;
+  min-height: 50px;
+  z-index: 1;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+  font-size: 1.6rem;
+  min-height: 50px;
+  min-width: 50px;
+  max-width: fit-content;
+}
+.round {
+  border-radius: 60px;
+}
+.outline {
+  border: 1px solid var(--outline-color);
+}
+.primary {
+  color: var(--normal-color);
+  background-color: var(--primary-bg-color);
+  border-color: var(--primary-bg-color);
+}
+.normal {
+  display: flex;
+  justify-content: flex-start;
+  color: var(--button-color);
+  border-color: var(--normal-color);
+  background-color: var(--normal-background-color-50);
+}
+.success {
+  color: var(--success-bg-color);
+}
+.warning {
+  color: var(--warning-bg-color);
+}
+.actButton {
+  color: var(--light-color);
+  max-height: 50px;
+  max-width: fit-content;
+}
+
+//size :
+.mini {
+  max-width: fit-content;
+  max-height: fit-content;
+  max-height: 50px;
+  max-width: 50px;
+}
+.normal {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
